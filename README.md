@@ -48,3 +48,8 @@ The notebook was run with Python 3.9. All outputs are saved in the notebook.
 ## Tech stack
 
 Python · pandas · scikit-learn · Matplotlib · Seaborn · Jupyter
+
+## License
+
+Code and analysis: [MIT](LICENSE) © Tom Kraus.  
+Data: [HCV data](https://archive.ics.uci.edu/dataset/571/hcv+data) by Lichtinghagen, Klawonn & Hoffmann, UCI Machine Learning Repository, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
